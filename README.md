@@ -1,4 +1,4 @@
-## Greetings! I'm Jerico Despe (@acerstructor) 👋
+## Greetings! I'm Jerico Despe (@madcraftian) 👋
 - Aspiring software and game developer, learning something new daily (even in hardware level)!
 - Also a digital artist (2D illustrator and pixel-artist)
 ---
