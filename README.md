@@ -6,6 +6,7 @@
 - Currently working with @Kendja's God Sim called Worldbox, as one of the pixel artists
 - Writing a worldbuilding for my upcoming webcomics
 - Developing mini-games using raylib
+- Studying the word of God
 <!--
 ---
 ## 🎯 Agenda 
