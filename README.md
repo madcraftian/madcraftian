@@ -1,6 +1,6 @@
 ## Greetings! I'm Jerico Despe (@madcraftian) 👋
-- Aspiring software and game developer, learning something new daily (even in hardware level)!
-- Also a digital artist (2D illustrator and pixel-artist)
+- A hobbyist software/game developer, learning something new daily (even in hardware level)!
+- Also a part-time digital artist (2D illustrator and pixel-artist)
 ---
 ## 💭 Status
 - Currently working with @Kendja's God Sim called Worldbox, as one of the pixel artists
@@ -22,7 +22,6 @@ Note:
 Programming languages which I've listed below the comment are
 just for fun, which I use 
 --->
-For Hobby...
 - 6502 Assembly (for Atari and NES gamedev)
 - x86/x64 Assembly
 
