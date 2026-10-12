@@ -1,12 +1,10 @@
 ## Greetings! I'm Jerico Despe (@madcraftian) 👋
 - A hobbyist software/game developer, learning something new daily (even in hardware level)!
-- Also a part-time digital artist (2D illustrator and pixel-artist)
+- Also a hobbyist digital artist (2D illustrator, pixel-artist and a 3D-Modeller)
 ---
 ## 💭 Status
-- Currently working with @Kendja's God Sim called Worldbox, as one of the pixel artists
-- Writing a worldbuilding for my upcoming webcomics
-- Developing mini-games using raylib
-- Studying the word of God
+- Learning about the Word of God
+
 <!--
 ---
 ## 🎯 Agenda 
